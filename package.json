@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  },
+  "dependencies": {
+    "glob": "^11.0.0",
+    "tailwindcss-text-fill-stroke": "^1.1.2"
+  },
+  "resolutions": {
+    "glob": "^9.0.0"
+  }
+}
